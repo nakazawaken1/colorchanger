@@ -1,0 +1,16 @@
+{
+  "name": "colorchanger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc --build"
+  },
+  "keywords": [],
+  "author": "nakazawaken1",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
